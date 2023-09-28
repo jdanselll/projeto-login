@@ -20,6 +20,9 @@
         float: right;
         width: 70%;
     }
+    form a.botao { width: 90%;
+
+    }
 }
 
 @media screen and (min-width: 992px) {
@@ -49,5 +52,8 @@
 
     div#formulario p {
         font-size: 1.2em;
+    }
+    form a.botao { width: 90%;
+
     }
 }
